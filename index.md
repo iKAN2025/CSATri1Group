@@ -1,7 +1,4 @@
 ---
 layout: base
-title: Student Home 
-description: Home Page
-hide: true
+title: Introduction
 ---
- Group Repository, --this change was made in a github codespaces

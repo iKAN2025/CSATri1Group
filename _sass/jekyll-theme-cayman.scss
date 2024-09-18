@@ -3,6 +3,9 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
+//override stuff?
+@import "https://github.com/iKAN2025/CSATri1Group/blob/main/_sass/caymenOverride/caymen-override.scss";
+
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;

@@ -5,7 +5,6 @@ permalink: /duallogin
 search_exclude: true
 ---
 
-{% include nav/home.html %}
 
 <style>
 .login-container {

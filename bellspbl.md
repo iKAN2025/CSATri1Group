@@ -1,20 +1,8 @@
 ---
 layout: base
-title: Introduction
+permalink: /stats
+title: Stats Beta Test
 ---
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Stats Input Form</title>
-</head>
-<body>
     <h2>Input Your Stats</h2>
     <form id="statsForm">
         <fieldset>

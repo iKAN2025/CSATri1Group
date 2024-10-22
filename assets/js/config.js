@@ -8,9 +8,9 @@ if (location.hostname === "localhost") {
 }
 export var javaURI;
 if (location.hostname === "localhost") {
-        javaURI = "http://localhost:8085";
+        javaURI = "http://localhost:8082";
 } else if (location.hostname === "127.0.0.1") {
-        javaURI = "http://127.0.0.1:8085"; 
+        javaURI = "http://127.0.0.1:8082"; 
 } else {
         javaURI = "https://spring2025.nighthawkcodingsociety.com";
 }
